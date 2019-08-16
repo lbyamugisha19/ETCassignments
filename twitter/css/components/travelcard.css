@@ -1,0 +1,21 @@
+.trip-details {
+    display: flex;
+justify-content:space-between;
+padding: 20px;
+align-items: center;
+}
+
+.trip{
+    box-shadow: 2px 2px 3px;
+    margin: 20px;
+    width: 400px; 
+}
+
+.trip-image{
+    display: block;
+    width: 100%;
+}
+
+.trip-price {
+    text-align:right;
+}

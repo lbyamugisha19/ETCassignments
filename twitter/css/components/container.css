@@ -1,0 +1,15 @@
+.Mum div {
+    background-color: brown;
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+.d-flex {
+    background-color: yellow;
+}
+.child2 {
+    flex-grow: 2;
+}
+.border {
+    border: 10px black;
+}

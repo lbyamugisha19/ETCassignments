@@ -1,0 +1,33 @@
+.flex-box {
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    height: 200px;
+}
+
+.flex-item {
+   padding: 20px;
+   margin: 20px;
+}
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.grow-0 {
+    flex-grow: 1;
+}
+.grow-1 {
+    flex-grow: 1;
+}
+.grow-2 {
+    flex-grow: 2;
+}
+

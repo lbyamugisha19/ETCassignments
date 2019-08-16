@@ -1,0 +1,49 @@
+h2 {
+    color: green;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: red
+    p{
+        color: chartreuse;
+    }
+}
+
+.first{
+    font-weight: bold;
+}.done{
+    text-decoration: line-through;
+}
+.third{
+    color: blue;
+}
+#html {
+    text-decoration: line-through
+}
+h1 {
+    text-align: left;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#heading{
+    text-shadow:3px 2px red;
+    color:rgb(255, 255, 255);
+}
+.mydiv {
+    background-color: blue;
+    width:50%;
+    height: 50%;
+}
+ 
+.div2{
+    background-color: yellow;
+    width: 50%;
+    height: 50%;
+}

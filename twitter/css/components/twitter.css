@@ -1,0 +1,43 @@
+.flex-box {
+    display:flex;
+    justify-content: initial;
+    height: 100%;
+}
+.flex-item {
+    text-align: start;
+    padding:100px;
+    height: 100%;
+}
+
+.white {
+    background-color: white;
+}
+.blue {
+    background-color: aqua;
+}
+.imag {
+    background-color: white;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUxF4k3bP1pyT9Ibkv2Cm35fektjMEPNamydy7y5oq659TdSM);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.buttton1 {
+    float: right;
+    border-block-color: cyan;
+    text-decoration: aqua;
+    padding: 10px;
+    border-radius: 20px;  
+}
+.button2 {
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.button3 {
+    border-block-color: cyan;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}
